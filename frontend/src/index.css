@@ -41,6 +41,13 @@ code {
   background: #94a3b8;
 }
 
+/* Background patterns */
+.bg-dots-pattern {
+  background-image: radial-gradient(circle, #3b82f6 1px, transparent 1px);
+  background-size: 60px 60px;
+  opacity: 0.03;
+}
+
 /* Loading animations */
 @keyframes shimmer {
   0% {
